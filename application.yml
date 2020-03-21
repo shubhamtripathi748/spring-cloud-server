@@ -1,9 +1,4 @@
-my:
-	greeting:hello world spring colud config
-	list:
-	 values:one,two,three
-	
-	db:
-		connection:connection to my localhost
-		host:127.0.0.1
-		port:1200
+martin:
+    name: Martin D'vloper
+    job: Developer
+    skill: Elite
